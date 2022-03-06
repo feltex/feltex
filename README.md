@@ -48,5 +48,6 @@ You can click the Preview link to take a look at your changes.
 ##  
 <div>
   <a href="https://www.linkedin.com/in/andrefelixbr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
+  
+![Snake animation](https://github.com/feltex/feltex/blob/main/feltex-github-user-contribution.svg)  
