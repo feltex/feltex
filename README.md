@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 <img align="center" alt="Feltex-Gradle" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" />
 <img align="center" alt="Feltex-Heroku" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" />
 <img align="center" alt="Feltex-Intellij" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" />
-<img align="center" alt="Feltex-Ubuntu" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" />
+<img align="center" alt="Feltex-Ubuntu" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" />
   
   
 </div>
