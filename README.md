@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 <img align="center" alt="Feltex-html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  
 <img align="center" alt="Feltex-postgre" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="center" alt="Feltex-kubernetes" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />
-<img align="center" alt="Feltex-aws" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="center" alt="Feltex-aws" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="center" alt="Feltex-Gradle" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" />
 <img align="center" alt="Feltex-Heroku" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" />
 <img align="center" alt="Feltex-Intellij" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" />
